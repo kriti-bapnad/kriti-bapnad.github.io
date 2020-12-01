@@ -12,13 +12,13 @@
 # talks and blog in talks.html
 
 locale                   : "en-US"
-title                    : "Akhil Agnihotri"
+title                    : "Kriti Bapnad"
 title_separator          : "-"
-name                     : &name "Akhil Agnihotri"
-description              : &description "Quantitative Researcher at JPMorgan & Chase Co."
-url                      : https://agnihotriakhil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kriti Bapnad"
+description              : &description "Consultant at Fractal Analytics"
+url                      : https://bapnadk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "agnihotriakhil.github.io"
+repository               : "bapnadk.github.io"
 teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,29 +85,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Akhil Agnihotri"
-  avatar           : "profile.jpg"
-  bio              : "Quantitative Researcher @ JPMC"
+  name             : "Kriti Bapnad"
+  avatar           : "intro.jpeg"
+  bio              : "Data Scientist @ Fractal.ai"
   location         : "Mumbai, India"
   employer         :
   pubmed           : 
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "agnihotri.akhil@gmail.com"
+  email            : "bapnadk@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "akhil.agnihotri.35"
+  facebook         : # "akhil.agnihotri.35"
   foursquare       :
-  github           : "agnihotriakhil"
+  github           : "bapnadk"
   google_plus      :
   keybase          :
-  instagram        : "longstory_short_/"
+  instagram        : # "longstory_short_/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "akhil-agnihotri-549690137/"
+  linkedin         : "kriti-rajesh"
   orcid            : 
   pinterest        :
   soundcloud       :
