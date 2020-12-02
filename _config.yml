@@ -12,7 +12,7 @@
 # talks and blog in talks.html
 
 locale                   : "en-US"
-title                    : "Kriti Bapnad"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Kriti Bapnad"
 description              : &description "Consultant at Fractal Analytics"
