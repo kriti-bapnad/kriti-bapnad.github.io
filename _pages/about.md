@@ -14,7 +14,7 @@ redirect_from:
 
 I am currently working as a Data Scientist at [Fractal Analytics](https://fractal.ai/) communicating the value of data to fortune 100 companies. I graduated from [BITS Pilani](https://www.bits-pilani.ac.in/hyderabad/) in August 2020 with a major in Electrical and Electronic Engineering and a minor in Finance. During my Undergraduate I was fortunate enough to pursue my corporate thesis in [UST Global](https://www.ust-global.com/), Infinity Labs where I worked on NLP and helped implement a research project on data privacy using Zero Knowledge Proofs in collaboration with Massachusetts Institute of Technology (MIT) Social Dynamics labs. During Summer ‘19 and ‘18, I interned at [Jarvis](https://jarvis.consulting/) and [TapChief](https://www.tapchief.com/about-us), both high growth start-ups where I wore multiple hats.
 
-I like to work on problems in Business/Product and my work till now has been focused on solving them by leveraging data. I am interested in solutions which build on machine learning, statistics,  and data analytics.
+I like to work on problems in Business/Product and my work till now has been focused on solving them by leveraging data. I am interested in solutions which build on machine learning, statistics,  and data analytics. I have a bunch of my projects on my [GitHub](https://github.com/bapnadk)!
 
 I also enjoy the outdoors, yoga, photography and working for the community. During my undergraduate years I founded [Bumbling.Tumbling.Clicking.](https://www.bumblingtumblingclicking.in/) through which we worked towards promoting volunteering spirit and active citizenship among the youth.
 <br/>
