@@ -12,9 +12,9 @@
 # talks and blog in talks.html
 
 locale                   : "en-US"
-title                    : "About"
+title                    : "Kriti Bapnad"
 title_separator          : "-"
-name                     : &name "Kriti Bapnad"
+name                     : &name "Kriti Rajesh Bapnad"
 description              : &description "Consultant at Fractal Analytics"
 url                      : https://bapnadk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
