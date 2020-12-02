@@ -1,10 +1,10 @@
 # main links links
 main:
+ # - title: "Projects"
+  #  url: /projects/
+  
   #- title: "Publications"
   #  url: /publications/
-
-  - title: "Projects"
-    url: /projects/
 
   # - title: "CV"
   # url: https://drive.google.com/file/d/1wxloraTS4kUvf7WtTnpk8pEpm3jT1Eux/view?usp=sharing

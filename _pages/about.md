@@ -21,7 +21,7 @@ I also enjoy the outdoors, yoga, photography and working for the community. Duri
 
 ## Series of Events   
 
-* **Oct 2020**<span style="display:inline-block; width: 9px;"></span> : Started at Fractal Analytics in a Covid World.
+* **Oct 2020**<span style="display:inline-block; width: 9px;"></span> : Started at Fractal Analytics in a Covid world.
 * **Jul 2020**&ensp;&nbsp; : Finally graduated from BITS Pilani! 
 * **Aug 2016** : Started my undergraduate life at BITS Pilani in Hyderabad, India
 * **Aug 2014** : Graduated HighSchool from Bengaluru, India
