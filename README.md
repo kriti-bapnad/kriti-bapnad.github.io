@@ -1,1 +1,1 @@
-Personal website @ [bapnadk.github.io](https://bapnadk.github.io/)
+Personal website @ [bapnadk.github.io](https://kriti-bapnad.github.io/)
